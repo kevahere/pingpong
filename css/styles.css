@@ -1,3 +1,29 @@
-.header{
+body{
+  color:white;
+  background-color: #000000;
+}
+.header h1{
   text-align:center;
+  font-size: 180px;
+  font-family: "Monofett", cursive;
+}
+
+.content{
+  background-color: #000000;
+}
+.sbr{
+  border:10px solid #ffcc00;
+  border-color: #ffcc00;
+  font-size: 12px;
+  float: left;
+  width: 30%
+
+}
+.game{
+  border:10px solid #ffcc00;
+  margin: 15px;
+  padding: 20px;
+  float: right;
+  width;70%
+
 }
